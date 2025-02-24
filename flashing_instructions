@@ -1,0 +1,23 @@
+|==========| Redmi Note 10 | mojito |=========|
+
+if your rom vanilla build
+• Reboot to Recovery ( PBRPP )
+• On Menu Wipe select Format Data and type yes 
+• Then Back click Power Menu select Reboot to Recovery
+• Flash FW 14.0.9.0
+• Flash ROM ZIP
+• Flash pbrp zip
+• Reboot recovery
+• Flash Gapps
+• Reboot system
+
+|=============================================|
+
+if your rom gapps build 
+• Reboot to Recovery ( PBRPP )
+• On Menu Wipe select Format Data and type yes 
+• Then Back click Power Menu select Reboot to Recovery
+• Flash FW 14.0.9.0
+• Flash ROM ZIP
+• Flash pbrp zip
+• Reboot system
